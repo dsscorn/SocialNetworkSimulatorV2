@@ -1,0 +1,2 @@
+javac -cp lib/*; -d classes TwitterGatherDataFollowers/userRyersonU/*.java
+java -cp lib/*;classes jade.Boot -jade_domain_df_maxresult 1500 -jade_core_messaging_MessageManager_poolsize 10 -jade_core_messaging_MessageManager_maxqueuesize 25000000 -jade_core_messaging_MessageManager_deliverytimethreshold 10000 -jade_domain_df_autocleanup true -local-port 35240 controller:TwitterGatherDataFollowers.userRyersonU.ControllerAgent

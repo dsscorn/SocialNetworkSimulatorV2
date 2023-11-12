@@ -1,0 +1,29 @@
+RyersonU to Reducer1: 3681 ms
+Message Passing: 8325 ms
+MAX Message Passing: 8325 ms
+Messages Cost: 248924 bytes
+TOTAL Messages Cost: 248924 bytes
+Mapper1- Total Tweets Processed: 1000 TP: 2011 ms TFIDF: 11 ms Reducer1 K-means: 132 ms Total: 2155 ms
+
+AbdolrezaAbhari to Reducer1: 25992 ms
+Message Passing: 110383 ms
+MAX Message Passing: 110383 ms
+Messages Cost: 1371564 bytes
+TOTAL Messages Cost: 1371564 bytes
+Mapper1- Total Tweets Processed: 10000 TP: 2563 ms TFIDF: 0 ms Reducer1 K-means: 1 ms Total: 2565 ms
+
+AbdolrezaAbhari to Reducer1: 77 ms
+Message Passing: 93 ms
+MAX Message Passing: 93 ms
+Messages Cost: 3076 bytes
+TOTAL Messages Cost: 3076 bytes
+Recommender-ServiceAgent1
+Total Tweets Processed: 12 TP: 25 ms TFIDF: 17 ms CosSim: 7 ms Total: 49 ms
+
+DenaRhoades to Reducer1: 108 ms
+Message Passing: 93 ms
+MAX Message Passing: 93 ms
+Messages Cost: 3076 bytes
+TOTAL Messages Cost: 3076 bytes
+Mapper1- Total Tweets Processed: 12 TP: 35 ms TFIDF: 19 ms Reducer1 K-means: 52 ms Total: 107 ms
+

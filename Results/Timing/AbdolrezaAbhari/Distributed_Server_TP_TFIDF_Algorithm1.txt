@@ -1,0 +1,3 @@
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	10000	2563838936	311480	1088842	
+CosSim=TP+TFIDF+CosSim	Recommender-ServiceAgent1	12	25121903	17089017	7073902	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	12	35942031	19613872	52277776	
