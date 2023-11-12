@@ -1,0 +1,14 @@
+totalMessagePassingCost: 248924 bytes Nodes: 1
+maxMessagePassingTime: 8325 ms Nodes: 1
+totalMessagePassingCost: 674 bytes Nodes: 1
+maxMessagePassingTime: 15 ms Nodes: 1
+totalMessagePassingCost: 1371564 bytes Nodes: 1
+maxMessagePassingTime: 110383 ms Nodes: 1
+totalMessagePassingCost: 82926422 bytes Nodes: 1
+maxMessagePassingTime: 1261182 ms Nodes: 1
+totalMessagePassingCost: 74930670 bytes Nodes: 1
+maxMessagePassingTime: 1261302 ms Nodes: 1
+totalMessagePassingCost: 3076 bytes Nodes: 1
+maxMessagePassingTime: 93 ms Nodes: 1
+totalMessagePassingCost: 3076 bytes Nodes: 1
+maxMessagePassingTime: 93 ms Nodes: 1
